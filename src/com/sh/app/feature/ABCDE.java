@@ -7,4 +7,7 @@ public class ABCDE {
 
 	}
 	
+	private void def() {
+		
+	}
 }
